@@ -139,6 +139,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OCCUTMDK
 
+[GeneratedDocument1]
+DocumentPath=HAB_ICs.cmp
+DItemRevisionGUID=
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
